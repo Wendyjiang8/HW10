@@ -4,6 +4,8 @@ import os
 from azure.keyvault.secrets import SecretClient
 from azure.identity import DefaultAzureCredential
 
+#12/05/2022 MWC
+
 AZURE_KEY_VAULT_URL = os.environ["AZURE_KEY_VAULT_URL"]
 
 credential = DefaultAzureCredential()
