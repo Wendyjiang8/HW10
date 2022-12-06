@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'wjiang22-hw10'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F57A51CD70448669C8A514BA5745041 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A58A3023C6454E7DA7FA81105FB3E6B2 }}
